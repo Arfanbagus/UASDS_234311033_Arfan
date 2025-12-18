@@ -1,8 +1,8 @@
 # 📘 Judul Proyek
-*(Isi judul proyek Anda di sini)*
+*(balblabla)*
 
 ## 👤 Informasi
-- **Nama:** [...]  
+- **Nama:** [Arfan Bagus D]  
 - **Repo:** [...]  
 - **Video:** [...]  
 
